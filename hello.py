@@ -14,5 +14,5 @@ print(codingal)
 
 name = input("enter your name: ")
 
-print("\nHello", name, "\nwelcome to codingal")
+print("nHello", name, "\welcome to codingal")
 
